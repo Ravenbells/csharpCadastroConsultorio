@@ -1,0 +1,15 @@
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/Cadastro
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/Cadastro.deps.json
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/Cadastro.runtimeconfig.json
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/Cadastro.dll
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/ref/Cadastro.dll
+/home/caberu/Documents/Projects/CSharp/Cadastro/bin/Debug/net6.0/Cadastro.pdb
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.csproj.AssemblyReference.cache
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.AssemblyInfoInputs.cache
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.AssemblyInfo.cs
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.csproj.CoreCompileInputs.cache
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.dll
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/ref/Cadastro.dll
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.pdb
+/home/caberu/Documents/Projects/CSharp/Cadastro/obj/Debug/net6.0/Cadastro.genruntimeconfig.cache
